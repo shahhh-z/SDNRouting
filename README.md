@@ -1,4 +1,4 @@
-# sdnRouting
+# SDNRouting
 Determines shortest routes to hosts using Bellman-Ford's algorithm.
 
 # How to Run
